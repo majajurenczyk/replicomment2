@@ -1,0 +1,1 @@
+C:\\Users\\User\\pbrwio\\projekty-pbrwio\\solr-7.1.0\\solr\\core\\src\\java\\
